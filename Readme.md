@@ -42,4 +42,4 @@ npm run android #or
 npm run start
 ```
 
-**You can find more information about the depedencies and setup on the [Expo documentation](https://docs.expo.dev/get-started/installation/)**
+**You can find more information about the dependencies and setup on the [Expo documentation](https://docs.expo.dev/get-started/installation/)**
